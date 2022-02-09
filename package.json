@@ -1,0 +1,20 @@
+{
+  "name": "mapbiomas-fake-api",
+  "version": "1.0.0",
+  "description": "simulação de api do mb workspace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/queirozws/mb-fake-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/queirozws/mb-fake-api/issues"
+  },
+  "homepage": "https://github.com/queirozws/mb-fake-api#readme"
+}
